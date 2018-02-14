@@ -1,3 +1,0 @@
-# reports
-
-Subfolder for reports.
